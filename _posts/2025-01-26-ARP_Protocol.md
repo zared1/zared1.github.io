@@ -5,7 +5,7 @@ categories: [Networking,Networking Protocols]
 tags: [Networking,Networking Protocols] # TAG names should always be lowercase
 ---
 
-![Mindmap Cover](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/14/ARP%20Protocol.png)  
+![Mindmap Cover](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/14/ARP%20Protocol.png)  
 
 Ever wondered how devices on a local network find each other? That’s where the **ARP Protocol** comes in. It’s a small but mighty part of networking that ensures your data knows where to go. Let’s break it down in a way that actually makes sense!  
 
@@ -15,7 +15,7 @@ ARP stands for **Address Resolution Protocol**. Its main job? Translating an IP 
 
 ## How Does ARP Work?  
 
-![How ARP Works Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/14/How%20ARP%20Works.png)  
+![How ARP Works Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/14/How%20ARP%20Works.png)  
 
 Here’s how the magic happens:  
 
@@ -35,7 +35,7 @@ Think of it like sending a letter. You know the recipient’s name (IP address) 
 
 ## Types of ARP  
 
-![Types of ARP Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/14/Types%20of%20ARP.png)  
+![Types of ARP Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/14/Types%20of%20ARP.png)  
 
 ARP isn’t a one-size-fits-all deal. Here are its main types:  
 
@@ -64,7 +64,7 @@ You’ll see something like this:
 
 ## ARP’s Vulnerabilities  
 
-![ARP Issues Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/14/ARP%20Issues.png)  
+![ARP Issues Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/14/ARP%20Issues.png)  
 
 Unfortunately, ARP isn’t perfect. Here are its main weaknesses:  
 
