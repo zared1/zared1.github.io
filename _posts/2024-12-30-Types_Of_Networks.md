@@ -5,13 +5,13 @@ categories: [Networking,Networking Basics]
 tags: [Networking,Networking Basics] # TAG names should always be lowercase
 ---
 
-![](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/2/Types%20of%20Network.png)  
+![](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/2/Types%20of%20Network.png)  
 
 Alright, let’s talk about the big three network types—LAN, WAN, and MAN. These are like the MVPs of networking, each playing a specific role in how our devices talk to each other. Whether you’re setting up your Wi-Fi at home or connecting a city-wide system, it’s all about picking the right type. Let’s break it down!
 
 ## Local Area Network (LAN)  
 
-![LAN Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/2/Local%20Area%20Network%20(LAN).png)  
+![LAN Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/2/Local%20Area%20Network%20(LAN).png)  
 
 LANs are like the chill, small-scale setups of the networking world. They’re perfect for homes, schools, and offices where all the devices are close together.  
 
@@ -27,7 +27,7 @@ LANs are like the chill, small-scale setups of the networking world. They’re p
 
 ## Wide Area Network (WAN)  
 
-![WAN Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/2/Wide%20Area%20Network%20(WAN).png)  
+![WAN Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/2/Wide%20Area%20Network%20(WAN).png)  
 
 WANs are the global rockstars. They connect devices over huge distances, making the internet itself the ultimate WAN.  
 
@@ -42,7 +42,7 @@ WANs are the global rockstars. They connect devices over huge distances, making 
 
 ## Metropolitan Area Network (MAN)  
 
-![MAN Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/2/Metropolitan%20Area%20Network%20(MAN).png)  
+![MAN Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/2/Metropolitan%20Area%20Network%20(MAN).png)  
 
 MANs are the perfect middle ground—bigger than LANs but not as massive as WANs. Think city-scale networks or university campuses.  
 
