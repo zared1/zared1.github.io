@@ -5,7 +5,7 @@ categories: [Networking,Networking Basics]
 tags: [Networking,Networking Basics] # TAG names should always be lowercase
 ---
 
-![](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/master/assets/Posts_img/Networking/1/Mindmap_Cover.png)
+![](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/1/Mindmap_Cover.png)
 
 ## What Exactly Is a Network?
 
@@ -13,7 +13,7 @@ At its core, a network is just a bunch of devices connected together so they can
 
 Think of it like this: A network is a digital hangout spot where all your devices can talk to each other and work together.
 
-![Mindmap: Network Definition](https://github.com/zared1/zared1.github.io/blob/master/assets/Posts_img/Networking/1/Network_Definition.png?raw=true)
+![Mindmap: Network Definition](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/1/Network_Definition.png)
 
 There are two main types of networks:
 
@@ -36,13 +36,13 @@ The internet itself is one massive network of networks. Your home router connect
 ### 4. **Data Transfer**
 Networks make moving data around super easy. Whether you’re uploading files to the cloud or downloading memes, it’s all thanks to networks.
 
-![Mindmap: Why Networks Are Important](https://github.com/zared1/zared1.github.io/blob/master/assets/Posts_img/Networking/1/Importance_of_Networks.png?raw=true)
+![Mindmap: Why Networks Are Important](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/1/Importance_of_Networks.png)
 
 ## How Do Networks Work?
 
 Here’s a simplified view of what’s happening under the hood:
 
-![Mindmap: How Networks Work](https://github.com/zared1/zared1.github.io/blob/master/assets/Posts_img/Networking/1/How_Networks_Work.png?raw=true)
+![Mindmap: How Networks Work](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/1/How_Networks_Work.png)
 
 1. **Devices Connect**: All your gadgets—phones, laptops, game consoles—connect to a router or switch.
 2. **Data Gets Packaged**: Information is split into tiny chunks called packets. Each packet has a destination address (like a digital envelope).
@@ -57,7 +57,7 @@ Here’s a simplified view of what’s happening under the hood:
 - **MAN (Metropolitan Area Network):** Covers a city or a campus.
 - **VPN (Virtual Private Network):** A secure tunnel within a network. Great for privacy.
 
-![Mindmap: Types of Networks](https://github.com/zared1/zared1.github.io/blob/master/assets/Posts_img/Networking/1/Types_of_Networks.png?raw=true)
+![Mindmap: Types of Networks](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/1/Types_of_Networks.png)
 
 ## Networks in Real Life
 
