@@ -5,13 +5,13 @@ categories: [Networking,Networking Basics]
 tags: [Networking,Networking Basics] # TAG names should always be lowercase
 ---
 
-![](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/5/Difference%20Between%20Hub%20and%20Switch.png)  
+![](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/5/Difference%20Between%20Hub%20and%20Switch.png)  
 
 Let’s talk about hubs and switches—two key devices in networking. They might look similar at first glance, but trust me, they’re totally different in how they handle your data. Whether you’re setting up a simple home network or managing a massive corporate setup, knowing the difference is a game-changer.  
 
 ## What Is a Hub?  
 
-![Hub Overview Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/5/What%20Is%20a%20Hub.png)  
+![Hub Overview Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/5/What%20Is%20a%20Hub.png)  
 
 A hub is like the most basic form of networking hardware. Think of it as a loudspeaker in a room—it sends the same message to everyone, even if only one person actually needs it.  
 
@@ -25,7 +25,7 @@ Hubs are pretty old-school, but they’re still used in super simple setups wher
 
 ## What Is a Switch?  
 
-![Switch Overview Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/5/What%20Is%20a%20Switch.png)  
+![Switch Overview Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/5/What%20Is%20a%20Switch.png)  
 
 A switch, on the other hand, is like the cool kid who knows how to keep a secret. It sends data only to the device that needs it, which means faster, more efficient communication.  
 
@@ -39,7 +39,7 @@ Switches are perfect for modern networks where speed and scalability are essenti
 
 ## Hub vs. Switch: Head-to-Head  
 
-![Hub vs. Switch Comparison Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/5/Hub%20vs.%20Switch%20Comparison.png)  
+![Hub vs. Switch Comparison Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/5/Hub%20vs.%20Switch%20Comparison.png)  
 
 Here’s a quick breakdown of the key differences:  
 
