@@ -5,11 +5,11 @@ categories: [Networking,Networking Basics]
 tags: [Networking,Networking Basics] # TAG names should always be lowercase
 ---
 
-![](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/4/Network_cables.jpg)  
+![](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/4/Network_cables.jpg)  
 
 Let’s talk about the underrated superheroes of networking: cables. Whether you’re gaming, streaming, or running a massive server room, the right network cable can make or break your connection. So, let’s dive into the different types, how they work, and why you’d pick one over the other.  
 
-![Mindmap Cover](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/4/Network%20Cables%20Types%20and%20Uses.png)  
+![Mindmap Cover](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/4/Network%20Cables%20Types%20and%20Uses.png)  
 
 ## Why Do Network Cables Matter?  
 
@@ -17,11 +17,11 @@ Network cables are like the highways for your data. They physically connect your
 
 ## Ethernet Cables  
 
-![Ethernet Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/4/ethernet.jpg)  
+![Ethernet Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/4/ethernet.jpg)  
 
 Ethernet cables are the most common type you’ll see. They’re affordable, easy to use, and perfect for homes, offices, and even some data centers.  
 
-![Ethernet Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/4/Ethernet%20Cables.png)  
+![Ethernet Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/4/Ethernet%20Cables.png)  
 
 ### Types of Ethernet Cables  
 - **Cat5**: Old-school, supports speeds up to 100 Mbps.  
@@ -35,11 +35,11 @@ Ethernet cables are the most common type you’ll see. They’re affordable, eas
 
 ## Fiber Optic Cables  
 
-![Fiber Optic](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/4/fiber-optics-1.jpg)  
+![Fiber Optic](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/4/fiber-optics-1.jpg)  
 
 Fiber optic cables are like the Ferraris of the networking world—fast, sleek, and built for performance. They use light to transmit data, which means blazing speeds and long ranges.  
 
-![Fiber Optic Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/4/Fiber%20Optic%20Cables.png)  
+![Fiber Optic Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/4/Fiber%20Optic%20Cables.png)  
 
 ### Features of Fiber Optic Cables  
 - **Speed**: Handles up to 1 Tbps.  
@@ -53,11 +53,11 @@ Fiber optic cables are like the Ferraris of the networking world—fast, sleek, 
 
 ## Coaxial Cables  
 
-![Coaxial](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/4/cable_coaxial.png)  
+![Coaxial](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/4/cable_coaxial.png)  
 
 Coaxial cables might sound old-school, but they’re still super relevant for certain applications. They’re durable, reliable, and can handle large data loads.  
 
-![Coaxial Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/4/Coaxial%20Cables.png) 
+![Coaxial Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/4/Coaxial%20Cables.png) 
 
 ### Features of Coaxial Cables  
 - **Construction**: A core wire surrounded by insulation, shielding, and an outer layer.  
