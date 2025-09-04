@@ -5,7 +5,7 @@ categories: [Networking,Networking Basics]
 tags: [Networking,Networking Basics] # TAG names should always be lowercase
 ---
 
-![](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/8/What%20Is%20an%20IP%20Address%20Basics%20Explained.png)  
+![](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/8/What%20Is%20an%20IP%20Address%20Basics%20Explained.png)  
 
 Alright, let’s talk about IP addresses. They’re everywhere—you’ve probably seen numbers like 192.168.1.1 on your router, but what do they actually mean? If you’ve ever wondered how the internet finds your device out of billions, this article’s for you.  
 
@@ -17,7 +17,7 @@ Fun fact: "IP" stands for **Internet Protocol**. Fancy name, simple job—it ens
 
 ## Key Features of IP Addresses  
 
-![Key Features Mindmap](https://github.com/secusavvy/secusavvy.github.io/blob/master/assets/Posts_img/Networking/8/Features%20of%20an%20IP%20Address.png?raw=true)  
+![Key Features Mindmap](https://github.com/zared1/zared1.github.io/blob/main/assets/Posts_img/Networking/8/Features%20of%20an%20IP%20Address.png?raw=true)  
 
 ### 1. **Uniqueness**  
 Every device on a network has its own unique IP address. It’s like your home address—no two are the same in the same network.  
@@ -32,7 +32,7 @@ Every device on a network has its own unique IP address. It’s like your home a
 
 ## How Do IP Addresses Work?  
 
-![How IP Addresses Work Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/8/How%20IP%20Addresses%20Work.png)  
+![How IP Addresses Work Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/8/How%20IP%20Addresses%20Work.png)  
 
 Here’s the magic behind IPs:  
 
@@ -47,7 +47,7 @@ When the data reaches your router, it checks which device requested it and sends
 
 ## Types of IP Addresses  
 
-![Types of IP Addresses Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/8/Types%20of%20IP%20Addresses.png)  
+![Types of IP Addresses Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/8/Types%20of%20IP%20Addresses.png)  
 
 ### 1. **IPv4: The OG**  
 IPv4 is the most common format. It’s a 32-bit address that looks like this: `192.168.0.1`. The downside? We’re running out of them because there are only 4.3 billion possible combinations.  
