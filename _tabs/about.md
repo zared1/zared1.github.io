@@ -19,7 +19,7 @@ Thank you for visiting.
 
 ## My Licenses & Certifications
 
-* [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/9b067845-5888-44cc-8722-f5cb9438e6e3){:target="_blank"}
+* [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/9b067845-5888-44cc-8722-f5cb9438e6e3/public_url){:target="_blank"}
 * [Ethical Hacker](https://www.credly.com/badges/eed9ea31-54a8-48ba-9b2f-f4946c85dafd/public_url){:target="_blank"}
 * [JavaScript Essentials](https://www.credly.com/badges/6e8774d0-7510-4506-92e6-fb2452ed7a9e/public_url){:target="_blank"}
 * [Network Addressing and Basic Troubleshooting](https://www.credly.com/badges/783abe16-1ca8-47ff-9019-bafa412a7237/public_url){:target="_blank"}
