@@ -5,7 +5,7 @@ categories: [Networking,Networking Protocols]
 tags: [Networking,Networking Protocols] # TAG names should always be lowercase
 ---
 
-![Mindmap Cover](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/13/The%20Ethernet.png)  
+![Mindmap Cover](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/13/The%20Ethernet.png)  
 
 Let’s get real—if you’re serious about networking, you need to know Ethernet. It’s the wired technology that forms the backbone of most local networks, whether at home, in offices, or even large enterprises. Let’s unravel what Ethernet is, how it works, and why it’s still essential in today’s wireless world.  
 
@@ -17,7 +17,7 @@ First developed in the 1970s by Bob Metcalfe, Ethernet has evolved into a standa
 
 ## How Ethernet Works  
 
-![How Ethernet Works Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/13/How%20Ethernet%20Works.png)  
+![How Ethernet Works Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/13/How%20Ethernet%20Works.png)  
 
 At its core, Ethernet transmits data using **frames**, which are small packets containing the information being sent and additional details like sender/receiver addresses and error-checking codes.  
 
@@ -35,7 +35,7 @@ At its core, Ethernet transmits data using **frames**, which are small packets c
 
 ## Types of Ethernet  
 
-![Ethernet Types Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/13/Types%20of%20Ethernet.png)  
+![Ethernet Types Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/13/Types%20of%20Ethernet.png)  
 
 Ethernet isn’t a one-size-fits-all solution—it has different versions tailored to various needs.  
 
@@ -57,7 +57,7 @@ Ethernet isn’t a one-size-fits-all solution—it has different versions tailor
 
 ## Pros and Cons of Ethernet  
 
-![Pros and Cons of Ethernet Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/13/Pros%20and%20Cons.png)  
+![Pros and Cons of Ethernet Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/13/Pros%20and%20Cons.png)  
 
 ### Pros  
 - **Reliable**: Less prone to interference compared to wireless technologies.  
