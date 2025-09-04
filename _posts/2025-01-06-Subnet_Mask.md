@@ -5,7 +5,7 @@ categories: [Networking,Networking Basics]
 tags: [Networking,Networking Basics] # TAG names should always be lowercase
 ---
 
-![Mindmap Cover](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/9/Subnet%20Mask%20What%20Is%20It%20and%20How%20Is%20It%20Used.png)  
+![Mindmap Cover](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/9/Subnet%20Mask%20What%20Is%20It%20and%20How%20Is%20It%20Used.png)  
 
 Let’s get into subnet masks—those mysterious numbers like `255.255.255.0` that pop up when you configure networks. If you’ve ever wondered how they fit into the networking puzzle, this guide is for you.  
 
@@ -19,7 +19,7 @@ Think of it like a mailing address: the network is the city, and the host is the
 
 ## Subnet Mask Basics  
 
-![Subnet Mask Basics Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/9/Subnet%20Mask%20Basics.png)  
+![Subnet Mask Basics Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/9/Subnet%20Mask%20Basics.png)  
 
 ### 1. **Structure**  
 A subnet mask is a 32-bit number written in dotted decimal (e.g., `255.255.255.0`). In binary, it’s a series of 1s (network) followed by 0s (host).  
@@ -33,7 +33,7 @@ The subnet mask works hand-in-hand with IP addresses, helping identify whether a
 
 ## How Do Subnet Masks Work?  
 
-![How Subnet Masks Work Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/9/How%20Subnet%20Masks%20Work.png)  
+![How Subnet Masks Work Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/9/How%20Subnet%20Masks%20Work.png)  
 
 Subnet masks act like a filter for IP addresses. Here’s how they work:  
 
@@ -55,7 +55,7 @@ Subnet masks are essential for keeping networks organized and efficient. Without
 
 ## Uses of Subnet Masks  
 
-![Uses of Subnet Masks Mindmap](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/9/Subnet%20Mask%20Use%20Cases.png)  
+![Uses of Subnet Masks Mindmap](https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/Networking/9/Subnet%20Mask%20Use%20Cases.png)  
 
 ### 1. **Network Design**  
 Subnet masks help allocate IP ranges efficiently. For example, you can reserve specific ranges for departments in an office.  
