@@ -197,3 +197,9 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+robots:
+  enabled: true
+  sitemap: true
+  disallow: []
+
