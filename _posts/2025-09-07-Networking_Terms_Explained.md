@@ -1,6 +1,6 @@
 ---
 title: DSL, Fiber, and Internet Providers - Networking Terms Explained
-date: 2025-03-06 15:47:58 +01:00
+date: 2025-09-07 15:47:58 +01:00
 categories: [Networking, Networking Basics]
 tags: [Networking, Networking Basics] # TAG names should always be lowercase
 ---
