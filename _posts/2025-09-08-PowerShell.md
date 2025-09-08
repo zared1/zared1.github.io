@@ -14,20 +14,20 @@ PowerShell works in both **INTERACTIVE** mode and **SCRIPT** mode. It possesses 
 
 
 _There wont be much gain, without any pain._ I would recommend learning powershell because of the **advantages** that it offers. 
-> **Advantages:**
+**Advantages:**
 
-> - Ease in accessing file systems
-> - Ability to access other data stores, such as registry and digital signature certificate stores.
-> - Open-source and increasing community base
-> - Apart from windows, it is extending support for Linux from next release.
-> - As PowerShell is tightly coupled with .NET framework. So, .NET objects can be used. 
-> - Ease in working with all Microsoft products (Office suite, Client OS, Server OS, IIS, Databases, Visual Studio Suite, etc.) 
-> - Ability to connect to existing windows administrative functionality: 
->  - WMI
->  - Microsoft .NET framework
->  - COM (Component Object Model)
->  - ADSI (Active Directory Services Interface)
->  - Can be used to automate almost any administrative task
+- Ease in accessing file systems
+- Ability to access other data stores, such as registry and digital signature certificate stores.
+- Open-source and increasing community base
+- Apart from windows, it is extending support for Linux from next release.
+- As PowerShell is tightly coupled with .NET framework. So, .NET objects can be used. 
+- Ease in working with all Microsoft products (Office suite, Client OS, Server OS, IIS, Databases, Visual Studio Suite, etc.) 
+- Ability to connect to existing windows administrative functionality: 
+- WMI
+- Microsoft .NET framework
+- COM (Component Object Model)
+- ADSI (Active Directory Services Interface)
+- Can be used to automate almost any administrative task
 
 ## 2. About PowerShell
 ### 2.1 PowerShell History
@@ -35,19 +35,19 @@ Initially, when windows was launched for the first time, it came with the **MS-D
 PowerShell script have **.ps1** as the file extension. Here, the '1' in '.ps1' doesn't refer to the powerShell version; rather refers to the version of the engine, which runs the powerShell. 
 
 ### 2.2 PowerShell Versions
-> **PowerShell 1.0**
-> - Installed but not enabled on windows Vista and Server 2008
+**PowerShell 1.0**
+- Installed but not enabled on windows Vista and Server 2008
 
-> **PowerShell 2.0**
-> - Installed by default on Windows 7 and Server 2008 R2
-> - The PowerShell ISE is installed by default on Windows 7
-> - Can be installed on Windows XP and Server 2003 or Higher
+**PowerShell 2.0**
+- Installed by default on Windows 7 and Server 2008 R2
+- The PowerShell ISE is installed by default on Windows 7
+- Can be installed on Windows XP and Server 2003 or Higher
 
-> **PowerShell 3.0**
-> - Installed by default on Windows 8 and Server 2012
-> - ISE is installed by default on Windows 8 and Server 2012 GUI
-> - Can be installed on Windows 7 and Server 2008 or Higher
-> - PowerShell Remoting is enabled by default on Server 2012
+**PowerShell 3.0**
+- Installed by default on Windows 8 and Server 2012
+- ISE is installed by default on Windows 8 and Server 2012 GUI
+- Can be installed on Windows 7 and Server 2008 or Higher
+- PowerShell Remoting is enabled by default on Server 2012
 
 There exists [some differences](https://4sysops.com/wiki/differences-between-powershell-versions/) between these versions, and the  latest version of PowerShell is **6.0**. 
 The suitable PowerShell version for windows servers is:
@@ -3487,100 +3487,3 @@ when exception occurs while executing external processes like .exe execution, ..
 
 when the launched process exits, powerShell will write the exit code directly to `$LastExitCode`
 In most cases, exit code `0` means `Success`, and `1` means `failure`.
-
-
-## 10. Working with cmdlets
-####	10.1 Finding and Learning Commands
-####	10.2 Working with the Pipeline
-####		10.2.1 Passing Data in the Pipeline By Value
-####	10.3 Selecting, Sorting, and Measuring Objects
-####	10.4 Converting, Exporting, and Importing Objects
-####	10.5 Filtering and Validating Objects Out of the Pipeline
-TODO Filter-Object
-
-Where-Object
-```
-PS C:\> (1..15) |  Where-Object { $_ -gt 10 }
-11
-12
-13
-14  
-15
-PS C:\> (1..15).Where{ $_ -gt 10 }    # Possible from version 4.0
-11
-12
-13
-14
-15
-```
-####	10.6 Enumerating Objects in the Pipeline
-####	10.7 Formatting Output
-####		10.7.1 Using Basic Formatting
-####		10.7.2 Using Advanced Formatting
-####		10.7.3 Redirecting Formatted Output
-####	10.8 Working with date and time
-####    10.9 File Handling 
-
-####	10.10 Aliases in PowerShell	
-TODO creating , reading and writing to files
-
-
-To get all the profiles in the machine
-```
-PS C:\> Resolve-Path -Path C:\users\*\Desktop -ErrorAction SilentlyContinue
-
-Path
-----
-C:\users\Administrator.JAINABHISHEK\Desktop
-C:\users\JAINABHISHEK\Desktop
-C:\users\Public\Desktop
-
-```
-To get only the names, and not the paths, 
-```
-PS C:\> Resolve-Path -Path C:\users\*\Desktop -ErrorAction SilentlyContinue |
->>     ForEach-Object {
->>         $_.Path.Split('\')[-2]
->>     }
->>
-Administrator.JAINABHISHEK
-JAINABHISHEK
-Public
-
-```
-
-## 11. Working with Windows Interfaces
-####	11.1 Managing services and Processes
-####	11.2 working with WMI and Other windows APIs
-####	11.3 Working with MS Word, MS Excel and Speach products
-## 12. Windows Remoting
-####	12.1 Working with winrm service
-####	12.2 Connecting to the remote windows server and managing the services
-####	12.3 Connecting to the remote Linux server and managing the services
-## 13. Advanced PowerShell Techniques
-####	13.1 Using Background Jobs and Scheduled Jobs
-####	13.2 Using PSProviders and PSDrives
-	
-## 14. Other Modules
-#### 14.1 ShowUI
-```
-PS C:\> $User = [ordered]@{
-   FirstName = "jain"
-   LastName = "abhishek"
-   BirthDate = [DateTime]
-   UserName = "jainabhishek"
-}
-
-$data = Get-Input $User -Show
-Write-Host $data
-#System.Collections.Hashtable
-
-PS C:\> $data
-
-Name                           Value                                                                                      
-----                           -----                                                                                      
-UserName                       jainabhishek                                                                                
-FirstName                      jain                                                                                       
-LastName                       abhishek                                                                                    
-BirthDate                      6/16/2017 2:52:11 PM                                                                       
-```
