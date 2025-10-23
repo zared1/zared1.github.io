@@ -17,7 +17,7 @@ The application starts off with a homepage that includes just a simple login for
 
 ```bash
 $$ nmap -sC -sV  -A  -oN nmap_result 10.10.177.101
-Starting Nmap 7.93 ( https://nmap.org ) at 2025-10-22 14:08 CEST
+Starting Nmap 7.93 ( https://nmap.org ) at 2025-10-22 12:08 CEST
 Nmap scan report for 10.10.177.101
 Host is up (0.042s latency).
 Not shown: 996 closed tcp ports (conn-refused)
@@ -45,7 +45,7 @@ Host script results:
 |   311: 
 |_    Message signing enabled but not required
 | smb2-time: 
-|   date: 2023-04-11T12:08:41
+|   date: 2025-10-22T12:08:41
 |_  start_date: N/A
 |_nbstat: NetBIOS name: OPACITY, NetBIOS user: <unknown>, NetBIOS MAC: 000000000000 (Xerox)
 
@@ -241,7 +241,7 @@ Using default input encoding: UTF-8
 Loaded 1 password hash (KeePass [SHA256 AES 32/64])
 Press 'q' or Ctrl-C to abort, almost any other key for status
 7**REDACTED**3        (dataset)     
-1g 0:00:00:12 DONE (2023-04-11 16:52) 0.08077g/s 70.75p/s 70.75c/s 70.75C/s chichi..melvin
+1g 0:00:00:12 DONE (2025-10-22 16:52) 0.08077g/s 70.75p/s 70.75c/s 70.75C/s chichi..melvin
 Use the "--show" option to display all of the cracked passwords reliably
 Session completed. 
 ```
