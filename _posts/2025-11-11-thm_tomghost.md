@@ -112,8 +112,6 @@ usage: 48143.py [-h] [-p PORT] [-f FILE] target
 <br/>
 → The problem is that when i ran it, i came accross some errors which forced me to make some troubleshooting in order for the exploit to run as intended.
 
-> *You can find the modified version in my Gihub repository <a href="https://github.com/YounesTasra-R4z3rSw0rd/CVE-2020-1938/blob/main/GhostCat_Exploit.py" target="_blank"><er>here</er></a>*
-
 → After running the exploit, i noticed some misplaced credentials :
 ```console
 root@kali# python3 GhostCat_Exploit.py <MACHINE_IP>                                            
