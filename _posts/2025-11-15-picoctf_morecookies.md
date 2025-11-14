@@ -58,7 +58,7 @@ auth_name = L2M0a3lRaUd2bGNCcytsREhNTUNzSjhqQlQ3djljUCszeGl5RFlFdWlTQlc5b0c5ZW1I
 ***
 
 * **With that being said, we need to find a way to manipulate the cookie without decrypting it in order to become an ```admin``` user.**
-* **Another thing worth mentioning is that, if you take a closer look at the <a href="https://younestasra-r4z3rsw0rd.github.io/posts/MoreCookies/#description"><er>Challenge Description</er></a>, you will notice that the letters ```C```, ```B``` and ```C``` are strangely capitalized, which is an indication that ```CBC``` or ```Cipher Block Chaining``` is the encryption scheme used to encrypt the ```Cookie```.**
+* **Another thing worth mentioning is that, if you take a closer look at the <a href="https://zared1.github.io/posts/picoctf_morecookies/#description"><er>Challenge Description</er></a>, you will notice that the letters ```C```, ```B``` and ```C``` are strangely capitalized, which is an indication that ```CBC``` or ```Cipher Block Chaining``` is the encryption scheme used to encrypt the ```Cookie```.**
 
 ## **Back to Basics**
 ***
@@ -249,7 +249,7 @@ for byte_index in range(len(Raw_Cookie)) :
 * **The above script is very basic and simple, i wrote an improved and more verbose version, which walks you through the ```Bit-Flipping``` process and tells you where exactly it is taking place and makes you better understand the attack.** 
 * **The entire process can be see in the clip below :**
 
-![](https://github.com/zared1/zared1.github.io/blob/main/assets/Posts_img/CTFs/2/download.gif)
+<script id="a" src="https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/CTFs/2/download.gif" async></script>
 
 ## **References**
 
