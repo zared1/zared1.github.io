@@ -249,7 +249,8 @@ for byte_index in range(len(Raw_Cookie)) :
 * **The above script is very basic and simple, i wrote an improved and more verbose version, which walks you through the ```Bit-Flipping``` process and tells you where exactly it is taking place and makes you better understand the attack.** 
 * **The entire process can be see in the clip below :**
 
-<script id="a" src="https://raw.githubusercontent.com/zared1/zared1.github.io/refs/heads/main/assets/Posts_img/CTFs/2/download.gif" async></script>
+{% include embed/youtube.html id='j_MtADWq2Bk' %}
+
 
 ## **References**
 
